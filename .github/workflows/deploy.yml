@@ -3,6 +3,9 @@
 
 name: Deploy React app on GitHub Pages
 
+permissions:
+  id-token: write
+  
 on:
   push:
     branches: [ "main" ]
