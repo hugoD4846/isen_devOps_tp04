@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hugoD4846/isen_devOps_tp04/static/css/main.e6c13ad2.css",
+    "main.js": "/hugoD4846/isen_devOps_tp04/static/js/main.119b4807.js",
+    "static/js/592.7f72a991.chunk.js": "/hugoD4846/isen_devOps_tp04/static/js/592.7f72a991.chunk.js",
+    "index.html": "/hugoD4846/isen_devOps_tp04/index.html",
+    "main.e6c13ad2.css.map": "/hugoD4846/isen_devOps_tp04/static/css/main.e6c13ad2.css.map",
+    "main.119b4807.js.map": "/hugoD4846/isen_devOps_tp04/static/js/main.119b4807.js.map",
+    "592.7f72a991.chunk.js.map": "/hugoD4846/isen_devOps_tp04/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.119b4807.js"
+  ]
+}
